@@ -4,8 +4,8 @@
 
 ## Dataset
 
-The data consists of a sampling of 20,000 US flights from 2007 and 2008 US flights datasets which contain over 700,000 and 800,000 records. There are 29 columns in the original data, including dates and timestamps, the time of arrival delay of each flight, the origin and destination airport and the causes of delays etc. The dataset can be found[here](http://stat-computing.org/dataexpo/2009/the-data.html),
-with feature documentations like carrier codes and airport codes available[here](http://stat-computing.org/dataexpo/2009/supplemental-data.html).
+The data consists of a sample of 20,000 US flights from 2007 and 2008 US flights datasets which contain over 700,000 and 800,000 records. There are 29 columns in the original data, including dates and timestamps, the time of arrival delay of each flight, the origin and destination airport and the causes of delays etc. The dataset can be found [here](http://stat-computing.org/dataexpo/2009/the-data.html),
+with feature documentations like carrier codes and airport codes available [here](http://stat-computing.org/dataexpo/2009/supplemental-data.html).
 since the datasets are too big, I randomly selected 10,000 records in each of the datasets. 
 
 
